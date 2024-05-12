@@ -10,6 +10,8 @@ packages = [{include = "repl_nix_changeforge"}]
 python = "^3.10"
 flask = "^3.0.3"
 db = "^0.1.1"
+pymongo = "^4.7.2"
+firebase-admin = "^6.5.0"
 
 
 [build-system]
